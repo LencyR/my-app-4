@@ -45,3 +45,11 @@ body {
     text-wrap: balance;
   }
 }
+
+.absolute {
+  position: absolute;
+}
+
+.transition-transform {
+  transition: transform 0.3s ease-in-out;
+}
